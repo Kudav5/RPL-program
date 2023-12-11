@@ -48,3 +48,5 @@ def tampilIsiTabel():
         for data in tables:
             print(data[0])
     
+# id, nama_user, terakhir_level
+# cursor.execute('insert into tabelnya (id, nama_user, terakhir_level) value (001, Davin, 10)')
