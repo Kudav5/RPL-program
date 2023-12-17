@@ -1,0 +1,9 @@
+salam, selamat pagi semuanya. disini saya akan mempresentasikan projek NoWords Game. [teks penjelasan singkat]
+
+ini adalah tampilan menu utama, ini untuk mulai, ini untuk melanjutkan level yang sudah disimpan, ini tampilan statistik[jadi statistik itu informasi yang dikumpulkan yang didapat dari kemajuan player entah itu kemajuan level atau yang lain] saya akan masukkan nama dulu dan ini gak wajib untuk dilakukan.
+
+saya akan mulai gamenya, sebelum mulai akan ditayangkan petunjuk berdurasi 10  detik. ini level 1, ini untuk menyimpan level, ini untuk kembali ke menu utama, ini untuk mengulang levelnya, ini untuk melanjutkan levelnya.
+
+ada beberapa kesalahan pertama, jangan menabrak objek dengan objek yang lain, khusus objek yang dari meja (misalnya saya akan menabrak apel dengan buku..itu gak bisa, kita harus ulang levelnya) kedua, jangan menempatkan objek ke frame lebih dari 1 kali (nah inikan 3 frame saya tabrakkan dengan buku)
+
+lanjut level ke 2, jika ingin ke menu utama simpan dulu baru kembali. kalau mau lanjutin klik muat level
