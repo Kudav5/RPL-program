@@ -15,19 +15,19 @@ Game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python
 ## activity Model
 ### 1. mulai
 ![](foto_v5/act%20v/activity%20mulai.png)
-### 2. muat data
+### 2. muat level
 ![](foto_v5/act%20v/activity%20muat%20level.png)
-### 3. simpan data
+### 3. simpan level
 ![](foto_v5/act%20v/activity%20simpan%20level.png)
-### 4. database
+### 4. statistik
 ![](foto_v5/act%20v/activity%20statistik.png)
 
 ## sequence Model
 ### 1. mulai
 ![](foto_v5/sqm%20v/Sequence%20mulai.png)
-### 2. muat data
+### 2. muat level
 ![](foto_v5/sqm%20v/Sequence%20muat%20level.png)
-### 3. simpan data
+### 3. simpan level
 ![](foto_v5/sqm%20v/Sequence%20simpan%20level.png)
 ### 4. statistik
 ![](foto_v5/sqm%20v/Sequence%20statistik.png)
