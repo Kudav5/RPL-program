@@ -1,5 +1,6 @@
 # Penjelasan Singkat
-game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python dan javascript
+Game puzzle yang tidak ada kata. terdiri dari 10 level. Cara bermain melengkapi frame kosong dengan gambar2 yang tersedia dimana gambar2 diambil huruf pertama dari nama2 benda dalam bahasa inggris.
+Game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python dan javascript
 
 ## Klik ini
 [![ikon](gambar/pp.png)](https://pind0.itch.io/alphapic)
