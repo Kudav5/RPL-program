@@ -3,7 +3,7 @@ Game puzzle yang tidak ada kata. terdiri dari 10 level. Cara bermain melengkapi 
 Game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python dan javascript
 
 ## Klik ini
-[![ikon](gambar/pp.png)](https://pind0.itch.io/alphapic){:target="_blank"}
+[![ikon](gambar/pp.png)](https://pind0.itch.io/alphapic)
 
 ## Screenshot
 ![](gambar/ok.png)
