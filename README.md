@@ -1,5 +1,5 @@
 # Penjelasan Singkat
-Game puzzle yang tidak ada kata. terdiri dari 10 level. Cara bermain melengkapi frame kosong dengan gambar2 yang tersedia dimana gambar2 diambil huruf pertama dari nama2 benda dalam bahasa inggris.
+Game puzzle yang tidak ada kata. terdiri dari 10 level. Cara bermain melengkapi frame kosong dengan gambar2 yang di meja dimana gambar2 yang huruf pertama dari nama2 benda dalam bahasa inggris.
 Game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python dan javascript
 
 ## Klik ini
