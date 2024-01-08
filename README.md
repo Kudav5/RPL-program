@@ -12,6 +12,15 @@ Game ini dibuat dengan bahasa pemrograman GDscript yang mengandung bahasa python
 ## use case Model
 ![](foto_v5/ucm%20v/uc.png)
 
+### 1. mulai
+![](foto%20use%20case/uc%20mulai.png)
+### 2. muat
+![](foto%20use%20case/uc%20muat.png)
+### 3. simpan
+![](foto%20use%20case/uc%20simpan.png)
+### 4. statistik
+![](foto%20use%20case/uc%20statistik.png)
+
 ## activity Model
 ### 1. mulai
 ![](foto_v5/act%20v/activity%20mulai.png)
